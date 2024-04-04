@@ -1,0 +1,4 @@
+https://catalog.data.gov/dataset/electric-vehicle-population-data
+https://sscweb.gsfc.nasa.gov/WebServices/REST/
+https://catalog.data.gov/dataset/ssc-restful-web-services-api
+https://www.kaggle.com/datasets/michaelbryantds/internet-speeds-and-prices
